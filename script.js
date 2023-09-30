@@ -11,4 +11,4 @@ while(true){
 }
 
 
-alert(level);
+alert(`The level of the element is: ${level}`);
